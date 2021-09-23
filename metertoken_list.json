@@ -113,6 +113,7 @@
         "chainId": 82,
         "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
       },
+      
       {
         "name": "MeterStable Token",
         "address": "0x687A6294D0D6d63e751A059bf1ca68E4AE7B13E2",
