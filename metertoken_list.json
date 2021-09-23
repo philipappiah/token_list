@@ -106,13 +106,12 @@
         ]
       },
       {
-        "name": "MOVR from MoonRiver",
-        "address": "0x3674D64AaB971aB974B2035667a4B3d09B5ec2B3",
+        "name": "MOVR from MoonRiver on Meter",
+        "address": "0xb158870beB809Ad955Bf56065C5C10D7Fd957cC0",
         "symbol": "MOVR",
         "decimals": 18,
-        "chainId": 56,
+        "chainId": 82,
         "logoURI": "https://raw.githubusercontent.com/meterio/token-list/master/data/MOVR/logo.png"
-      
       },
       {
         "name": "MeterStable Token",
